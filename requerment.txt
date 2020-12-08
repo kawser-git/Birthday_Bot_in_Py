@@ -1,0 +1,3 @@
+npm install panda
+npm install xlrd
+npm install openpyxl
